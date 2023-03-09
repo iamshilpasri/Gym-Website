@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+.h1{
+    font-size: 100px;
+}
+.i1,.i2,.i3,.i4,.i5,.i6{
+    border: 4px solid black;
+    margin: 10px;
+}
+body{
+    background-color: pink
+}
